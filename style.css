@@ -13,6 +13,10 @@ header{
     left: 0;
 
 }
+::selection{
+    background-color: aqua;
+    color: black;
+}
 nav{
     
     background: linear-gradient(to bottom,rgb(2, 78, 119), #16486337);
